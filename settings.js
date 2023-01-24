@@ -26,23 +26,23 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "JER-BOTZ" //namabot kalian
-global.ownername= "JER-BOTZ" //nama kalian
+global.botname = "MIKU-BOT" //namabot kalian
+global.ownername= "RYU" //nama kalian
 global.myweb ="https://" //bebas asal jan hapus
 global.youtube = "https://" //bebas asal jan hapus
 global.myweb2 = "https://" //bebas
 global.email = "yagakpunya@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['6281315252010'] //premium user
-global.owner = ["6281315252010","6281315252010"] //ganti agar fitur owner bisa di gunakan
+global.premium = ['6281228496899'] //premium user
+global.owner = ["6281228496899"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "6281315252010" // nomor wa kalian
 global.ownernomerr = "+6281315252010" //nmr wa kalian
 global.thumbnail = "./image/Screenshot_2022-08-12-20-36-45-38.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/qris_dinamis_1655141087404.png" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© JER-BOTZ' //sticker wm ubah
+global.packname = '© MIKU-BOT' //sticker wm ubah
 global.author = 'Di Buat Oleh JEREMIOFFICIAL' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
