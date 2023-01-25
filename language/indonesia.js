@@ -25,7 +25,7 @@ exports.profile = (username, m, about, pasangan, PhoneNumber, exp, min, xp, math
 
 //
 exports.needReg = (a, b, c) =>{
-	return`🇲🇨 Daftar dulu bang
+	return`🇲🇨 Daftar dulu 
 
 Gini : #daftar nama|umur|gender|hobi
 Contoh : #daftar ${a}|18|cowo|Game
@@ -329,7 +329,7 @@ exports.JwbErr = () => {
 
 exports.JwbTrue = (tebak) => {
 return`🎮 ${tebak} 🎮\n\nJawaban Benar 🎉\n\nIngin bermain lagi? tekan button dibawah`
-}
+} 
 exports.TbGam = () => {
     return `Tebak Gambar`
 }
@@ -1309,7 +1309,6 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 │○ !stone text|text2
 │○ !marvel text|text2
 │○ !marvel2 text|text2
-│○ !pornhub text|text2
 │○ !avengers text|text2
 │○ !metalr text|text2
 │○ !metalg text|text2
@@ -1501,31 +1500,6 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 │○ !tekateki
 │○ !susunkata
 ╰❒ !caklontong
-
-
-╭─❒ 「 Asupan Menu 」
-│○ !chika
-│○ !delvira
-│○ !ayu
-│○ !bunga
-│○ !aura
-│○ !nisa
-│○ !ziva
-│○ !yana
-│○ !viona
-│○ !syania
-│○ !riri
-│○ !syifa
-│○ !mama_gina
-│○ !alcakenya
-│○ !mangayutri
-│○ !rikagusriani
-│○ !asupan
-│○ !bocil
-│○ !geayubi
-│○ !santuy
-│○ !ukhty
-╰❒ !syifa
 
 ╭─❒ 「 Telegram Sticker 」
 │○ !awoawo
@@ -1740,7 +1714,7 @@ exports.rules = (prefix) => {
 ➡️ Mungkin dipengaruhi oleh jaringan, signal, banned oleh Whatsapp dan beberapa asalan.
 
 🗯️ Dimana saya bisa mendapatkan Script dari bot ini ?
-➡️ Script ini bisa kalian dapatkan di YouTube ZEEONE OFC
+➡️ Rahasia
 
 🗯️ Boleh saya menambah ke grup?
 ➡️ Untuk itu tergantung dari owner bot sendiri
@@ -1765,7 +1739,7 @@ exports.welcome = () =>{
 ╰❒ 𝖯𝖺𝗍𝗎𝗁𝗂 𝗋𝗎𝗅𝖾𝗌 𝗀𝗋𝗎𝗉 𝗒𝖺 𝗄𝖺k ~`
 }
 exports.leave = () =>{
-	return`Yah kok out 😣 Mental aman kan kak >.<
+	return`Yah kok out 😣
 Goodbye`
 }
 exports.source = () =>{
@@ -1780,7 +1754,7 @@ exports.tos = (ownernomer) => {
 *-------「 DONATE 」 -------*
 
 Hai kak ☺️ 
-Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
+Kalian bisa mendukung saya agar bot ini tetap up to date dan on dengan cara donasi
 
 Berapapun donasi kalian akan sangat berarti 👍
 Buat kalian yang sudah donasi bisa kirim bukti
@@ -2688,8 +2662,8 @@ exports.anonchat = (prefix) =>{
 │○ !menfess
 │○ !anonymous 
 │○ !start
-│○ !skip [daerah]
-╰❒ !stop [surah|ayat]
+│○ !skip 
+╰❒ !stop
 `
 }
 
